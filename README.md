@@ -164,7 +164,9 @@ KPIs displayed:
 - ⭐ Avg Review Rating: **3.75**
 - Revenue by Category, Age Group, and Subscription Status
 
-> 📸 *(Add screenshot of your Power BI dashboard here)*
+> Dashboard.png
+<img width="945" height="543" alt="Screenshot 2026-05-02 202408" src="Dashboard.png" />
+
 
 ---
 
