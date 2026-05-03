@@ -213,6 +213,8 @@ FROM customer GROUP BY age_group ORDER BY revenue DESC;
 ---
 
 ## 5. Power BI Dashboard
+<img width="945" height="543" alt="Screenshot 2026-05-02 202408" src="Dashboard.png" />
+
 
 An interactive dashboard was built in Power BI Desktop with the following components:
 
@@ -249,15 +251,11 @@ An interactive dashboard was built in Power BI Desktop with the following compon
 
 ```
 customer-shopping-behaviour-analysis/
-├── data/
-│   └── customer_shopping_behavior.csv
-├── notebooks/
-│   └── customer_shopping_behavior.ipynb
-├── sql/
-│   └── customer_shopping_behavior.sql
-├── dashboard/
-│   └── Customer_Behavior_Dashboard.pbix
-│   └── dashboard_screenshot.png
+├── customer_shopping_behavior.csv
+├── customer_shopping_behavior.ipynb
+├── customer_shopping_behavior.sql
+├── Customer_Behavior_Dashboard.pbix
+├── dashboard_screenshot.png
 └── README.md
 ```
 
